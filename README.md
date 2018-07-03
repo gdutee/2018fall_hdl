@@ -1,4 +1,4 @@
-# 2018fall_hdl
+# 2018fall_hdl (J. Lin S. Xie Guangdong Univerisity of Technology)
 
 
 ## Useful links
