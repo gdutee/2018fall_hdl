@@ -1,9 +1,9 @@
-# 2018fall_hdl (J. Lin S. Xie Guangdong Univerisity of Technology)
+# 2018fall_hdl (J. Lin S. Xie Guangdong University of Technology)
 
 
 ## Useful links
 ### Verilog
-- [Digital Logicl]()
+- [Digital Logic]()
 - [Verilog tutorial](http://www.asic-world.com/verilog/veritut.html)
 
 ### Chisel
