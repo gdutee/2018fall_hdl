@@ -11,5 +11,5 @@
 
 ### Python
 - [myHDL](https://github.com/myhdl/myhdl) A python library that can generate verilog/vhdl.
-- [Python Co-simulation Verification ](https://cocotb.readthedocs.io/en/latest/introduction.html) 
+- [cocotb](https://cocotb.readthedocs.io/en/latest/introduction.html) 
 
